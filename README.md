@@ -1,2 +1,2 @@
 # tezos-defi
-My submission for the Tezos Hack-a-thon 2021
+My submission for the Tezos Hackathon 2021
